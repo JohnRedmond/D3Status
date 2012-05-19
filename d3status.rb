@@ -1,5 +1,7 @@
+require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
+
 
 class D3Parser
   BATTLENET_WEB = "http://us.battle.net/d3/en/status"
